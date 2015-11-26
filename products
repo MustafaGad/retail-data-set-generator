@@ -1,0 +1,4 @@
+productsCount = 1000
+brandsDistr = 0,0.33-1,0.33-2,0.34
+categoriesDistr = 1,0.1-2,0.2-3,0.1-6,0.2-7,0.15-8,0.15-9,0.1
+priceDistr = U-10.0f-1000.0f
